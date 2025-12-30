@@ -1,5 +1,5 @@
-create database HN_KS24_CNTT1_LeDucAnh;
-use HN_KS24_CNTT1_LeDucAnh;
+create database HN_KS24_CNTT2_LeDucAnh;
+use HN_KS24_CNTT2_LeDucAnh;
 
 create table Student(
     StudentID INT PRIMARY KEY,
